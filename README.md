@@ -4,6 +4,7 @@
 This Portfolio includes the following sections:
 
 **Academic Experience**
+
 **Data analysis**
 
 
