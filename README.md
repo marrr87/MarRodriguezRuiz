@@ -1,5 +1,10 @@
 # MarRodriguezRuiz
-Personal Portfolio on Bioinformatics
+##Personal Portfolio on Bioinformatics
+
+This Portfolio includes the following sections:
+
+**Academic Experience**
+**Data analysis**
 
 
 
