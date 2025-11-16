@@ -1,6 +1,8 @@
 # MarRodriguezRuiz
 ##Personal Portfolio on Bioinformatics
 
+--This portfolio is in an early development phase--
+
 This Portfolio includes the following sections:
 
 **Academic Experience**
